@@ -1,5 +1,5 @@
 # WS-Card-Detection
-## Using DCT and phash implementing search for the card that same as input image
+## Using DCT and phash implement searching for the card that same as input image
 
 Executing steps：
 1. Go to setting set the inputing image and being searched folder
